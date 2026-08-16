@@ -53,10 +53,10 @@ font-weight:bold;cursor:pointer;z-index:9999;
 let peliculas=[];
 let seleccionadas=[];
 
-fetch("peliculas.json")
-.then(r=>r.json())
-.then(data=>{
-    peliculas=data;
+fetch("peliculas.json?v=" + Date.now())
+.then(r => r.json())
+.then(data => {
+    peliculas = data;
     actualizarContador();
     mostrar("");
 });

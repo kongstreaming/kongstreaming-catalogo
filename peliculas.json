@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "La Odisea",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_La Odisea.jpg"
+  },
+  {
+    "titulo": "Moana",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Moana.jpg"
+  },
+  {
+    "titulo": "Spider-Man Un nuevo día",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Spider-Man Un nuevo dia.jpg"
+  },
+  {
     "titulo": "Toy Story 5",
     "anio": "2026",
     "estado": "EN CINE",

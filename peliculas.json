@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "La Odisea",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_La Odisea.jpg"
+  },
+  {
     "titulo": "Moana",
     "anio": "2026",
     "estado": "EN CINE",

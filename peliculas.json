@@ -518,6 +518,13 @@
     "poster": "posters/2026_Espantoso.jpg"
   },
   {
+    "titulo": "Esto, aquello y todo lo demás",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Esto aquello y todo lo demas.jpg"
+  },
+  {
     "titulo": "Evil Dead En llamas",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -943,6 +950,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Nada entre los dos.jpg"
+  },
+  {
+    "titulo": "Nando entre dos mundos Una película de Sintonía",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Nando entre dos mundos Una pelicula de Sintonia.jpg"
   },
   {
     "titulo": "No Entrar",

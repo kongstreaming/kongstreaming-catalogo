@@ -2653,6 +2653,13 @@
     "poster": "posters/2025_Ella McCay Imperfectamente perfecta.jpg"
   },
   {
+    "titulo": "Emboscada Salvaje",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Emboscada Salvaje.jpg"
+  },
+  {
     "titulo": "Empezar de nuevo",
     "anio": "2025",
     "estado": "CALIDAD FINAL",
@@ -3787,6 +3794,13 @@
     "poster": "posters/2025_Los Muertimer.jpg"
   },
   {
+    "titulo": "Los Peludos 2 Pequeños Monstruos",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Los Peludos 2 Pequenos Monstruos.jpg"
+  },
+  {
     "titulo": "Los Roses",
     "anio": "2025",
     "estado": "CALIDAD FINAL",
@@ -4338,13 +4352,6 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": "posters/2025_Presencia.jpg"
-  },
-  {
-    "titulo": "Primitive War",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Primitive War.jpg"
   },
   {
     "titulo": "Prisionero de guerra",

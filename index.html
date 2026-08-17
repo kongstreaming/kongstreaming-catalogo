@@ -57,8 +57,10 @@ fetch("peliculas.json?v=" + Date.now())
 .then(r => r.json())
 .then(data => {
     peliculas = data;
-    actualizarContador();
-    mostrar("");
+    fetch("novedades.json?v=" + Date.now())
+      .then(r=>r.json())
+      .then(n=>{novedades=n; actualizarContador(); mostrar("");})
+      .catch(()=>{novedades=[]; actualizarContador(); mostrar("");});
 });
 
 function actualizarContador(){
@@ -70,7 +72,26 @@ function mostrar(texto){
     const contenedor=document.getElementById("catalogo");
     contenedor.innerHTML="";
 
-    const categorias=["cine","2026","2025","2024"];
+    if(novedades && novedades.length>0){
+      const listaN=peliculas.filter(p=>novedades.includes(p.titulo) && limpiar(p.titulo).includes(limpiar(texto))).sort((a,b)=>novedades.indexOf(a.titulo)-novedades.indexOf(b.titulo));
+      if(listaN.length){
+        const bloque=document.createElement("div");
+        bloque.className="categoria";
+        bloque.innerHTML=`<h2>🔥 NOVEDADES (${listaN.length})</h2><div class="grid"></div>`;
+        const grid=bloque.querySelector(".grid");
+        listaN.forEach(p=>{
+          const card=document.createElement("div"); card.className="card"; if(seleccionadas.includes(p.titulo)) card.classList.add("seleccionada");
+          card.innerHTML=`<img src="${p.poster}" onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Poster'"><div class="info"><div class="datos"><div class="titulo">${p.titulo}</div><div class="anio">${p.anio}</div><div class="estado">${p.categoria === "cine" ? p.estado : "HD • " + p.estado}</div></div><div class="precio">$${p.categoria === "cine" ? 20 : 15}</div></div>`;
+          card.onclick=()=>{if(seleccionadas.includes(p.titulo)){seleccionadas=seleccionadas.filter(x=>x!==p.titulo);card.classList.remove("seleccionada");}else{seleccionadas.push(p.titulo);card.classList.add("seleccionada");}actualizarContador();};
+          grid.appendChild(card);
+        });
+        contenedor.appendChild(bloque);
+      }
+    }
+
+    let novedades=[];
+fetch("novedades.json?v=" + Date.now()).then(r=>r.json()).then(n=>n).catch(()=>[]);
+const categorias=["cine","2026","2025","2024"];
 
     categorias.forEach(cat=>{
         const lista=peliculas.filter(p=>

@@ -74,9 +74,9 @@ function mostrar(texto){
 
     categorias.forEach(cat=>{
         const lista=peliculas.filter(p=>
-            p.categoria===cat &&
-            p.titulo.toLowerCase().includes(texto.toLowerCase())
-        );
+    p.categoria===cat &&
+    limpiar(p.titulo).includes(limpiar(texto))
+);
 
         if(lista.length===0) return;
 

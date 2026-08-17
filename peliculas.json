@@ -14,6 +14,20 @@
     "poster": "posters/cine_Moana.jpg"
   },
   {
+    "titulo": "Spider-Man Un nuevo día",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Spider-Man Un nuevo dia.jpg"
+  },
+  {
+    "titulo": "Toy Story 5",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Toy Story 5.jpg"
+  },
+  {
     "titulo": "18 rosas",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1155,13 +1169,6 @@
     "poster": "posters/2026_Soulm8te.jpg"
   },
   {
-    "titulo": "Spider-Man Un nuevo día",
-    "anio": "2026",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2026",
-    "poster": "posters/2026_Spider-Man Un nuevo dia.jpg"
-  },
-  {
     "titulo": "Star Wars The Mandalorian and Grogu",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1258,13 +1265,6 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Torrente Presidente.jpg"
-  },
-  {
-    "titulo": "Toy Story 5",
-    "anio": "2026",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2026",
-    "poster": "posters/2026_Toy Story 5.jpg"
   },
   {
     "titulo": "Tu, yo & la Toscana",

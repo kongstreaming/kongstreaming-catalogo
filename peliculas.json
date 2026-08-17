@@ -133,11 +133,25 @@
     "poster": "posters/2026_Balistica.jpg"
   },
   {
+    "titulo": "Beast",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Beast.jpg"
+  },
+  {
     "titulo": "Bem, un lémur en fuga",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Bem un lemur en fuga.jpg"
+  },
+  {
+    "titulo": "Bendito corazón",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Bendito corazon.jpg"
   },
   {
     "titulo": "Boda sangrienta 2",
@@ -175,6 +189,13 @@
     "poster": "posters/2026_BTS El regreso.jpg"
   },
   {
+    "titulo": "Buen Chico",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Buen Chico.jpg"
+  },
+  {
     "titulo": "Buena suerte, diviértete, no mueras",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -187,6 +208,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Caminos del crimen.jpg"
+  },
+  {
+    "titulo": "Carrera de bestias",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Carrera de bestias.jpg"
   },
   {
     "titulo": "Castigo divino",
@@ -371,6 +399,13 @@
     "poster": "posters/2026_El Guardian Ultimo Refugio.jpg"
   },
   {
+    "titulo": "El Joven Washington",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_El Joven Washington.jpg"
+  },
+  {
     "titulo": "El Manuscrito De Dante",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -495,6 +530,20 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Espantoso.jpg"
+  },
+  {
+    "titulo": "Evil Dead En llamas",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Evil Dead En llamas.jpg"
+  },
+  {
+    "titulo": "Evolution",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Evolution.jpg"
   },
   {
     "titulo": "Exterminio El templo de huesos",
@@ -623,6 +672,13 @@
     "poster": "posters/2026_Jack Ryan de Tom Clancy Guerra fantasma.jpg"
   },
   {
+    "titulo": "Jackass La Ultima y Nos Vamos",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Jackass La Ultima y Nos Vamos.jpg"
+  },
+  {
     "titulo": "Jugada Maestra",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -693,6 +749,13 @@
     "poster": "posters/2026_La Gatastrofe de Rocky.jpg"
   },
   {
+    "titulo": "La heroína del moño",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_La heroina del mono.jpg"
+  },
+  {
     "titulo": "La huella del oro",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -749,6 +812,20 @@
     "poster": "posters/2026_La Voluntad de Dios.jpg"
   },
   {
+    "titulo": "La última casa",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_La ultima casa.jpg"
+  },
+  {
+    "titulo": "Lapönia",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Laponia.jpg"
+  },
+  {
     "titulo": "Las damas primero",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -761,6 +838,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Letras Robadas.jpg"
+  },
+  {
+    "titulo": "Leviticus Ritual de sangre",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Leviticus Ritual de sangre.jpg"
   },
   {
     "titulo": "Lindas y Letales",
@@ -838,6 +922,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_MilkySubway The Galactic Limited Express - La pelicula.jpg"
+  },
+  {
+    "titulo": "Minions & Monstruos",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Minions  Monstruos.jpg"
   },
   {
     "titulo": "Misdirection",
@@ -1057,6 +1148,13 @@
     "poster": "posters/2026_Solo Mio.jpg"
   },
   {
+    "titulo": "Soulm8te",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Soulm8te.jpg"
+  },
+  {
     "titulo": "Star Wars The Mandalorian and Grogu",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1127,11 +1225,25 @@
     "poster": "posters/2026_The Dink Pasion por el pickleball.jpg"
   },
   {
+    "titulo": "The Gates",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_The Gates.jpg"
+  },
+  {
     "titulo": "The Punisher La última muerte",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_The Punisher La ultima muerte.jpg"
+  },
+  {
+    "titulo": "Todo lo que nunca fuimos",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Todo lo que nunca fuimos.jpg"
   },
   {
     "titulo": "Torrente Presidente",
@@ -1153,6 +1265,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Turbulencia En La Oficina.jpg"
+  },
+  {
+    "titulo": "Un comeback salvaje",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Un comeback salvaje.jpg"
   },
   {
     "titulo": "Un destino en Corea",

@@ -52,6 +52,7 @@ font-weight:bold;cursor:pointer;z-index:9999;
 <script>
 let peliculas=[];
 let seleccionadas=[];
+let novedades=[];
 
 fetch("peliculas.json?v=" + Date.now())
 .then(r => r.json())
@@ -89,8 +90,6 @@ function mostrar(texto){
       }
     }
 
-    let novedades=[];
-fetch("novedades.json?v=" + Date.now()).then(r=>r.json()).then(n=>n).catch(()=>[]);
 const categorias=["cine","2026","2025","2024"];
 
     categorias.forEach(cat=>{

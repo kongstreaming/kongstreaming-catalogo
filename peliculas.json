@@ -343,13 +343,6 @@
     "poster": "posters/2026_El Cobrador De Deudas.jpg"
   },
   {
-    "titulo": "El Dia De La Revelacion",
-    "anio": "2026",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2026",
-    "poster": "posters/2026_El Dia De La Revelacion.jpg"
-  },
-  {
     "titulo": "El Drama",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -362,6 +355,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_El Dia D Bajo presion.jpg"
+  },
+  {
+    "titulo": "El día de la revelación",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_El dia de la revelacion.jpg"
   },
   {
     "titulo": "El Día del Fin del Mundo Migración",

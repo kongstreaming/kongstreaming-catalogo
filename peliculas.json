@@ -21,13 +21,6 @@
     "poster": "posters/cine_Spider-Man Un nuevo dia.jpg"
   },
   {
-    "titulo": "Toy Story 5",
-    "anio": "2026",
-    "estado": "EN CINE",
-    "categoria": "cine",
-    "poster": "posters/cine_Toy Story 5.jpg"
-  },
-  {
     "titulo": "18 rosas",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -215,6 +208,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Caminos del crimen.jpg"
+  },
+  {
+    "titulo": "Camp Rock 3",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Camp Rock 3.jpg"
   },
   {
     "titulo": "Carrera de bestias",
@@ -756,6 +756,13 @@
     "poster": "posters/2026_La Familia Del Barrio La Maldicion del Quinto Partido.jpg"
   },
   {
+    "titulo": "La fiera",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_La fiera.jpg"
+  },
+  {
     "titulo": "La Gatástrofe de Rocky",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -910,6 +917,13 @@
     "poster": "posters/2026_Mensajes de voz para Isabelle.jpg"
   },
   {
+    "titulo": "Mi mejor amigo, su novia y yo",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Mi mejor amigo su novia y yo.jpg"
+  },
+  {
     "titulo": "Mi perro y yo",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -985,6 +999,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_No Entrar.jpg"
+  },
+  {
+    "titulo": "No se desea buena suerte",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_No se desea buena suerte.jpg"
   },
   {
     "titulo": "No te olvidaré",
@@ -1253,6 +1274,13 @@
     "poster": "posters/2026_The Gates.jpg"
   },
   {
+    "titulo": "The Odyssey",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_The Odyssey.jpg"
+  },
+  {
     "titulo": "The Punisher La última muerte",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1272,6 +1300,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Torrente Presidente.jpg"
+  },
+  {
+    "titulo": "Toy Story 5",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Toy Story 5.jpg"
   },
   {
     "titulo": "Tu, yo & la Toscana",
@@ -1300,6 +1335,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Un destino en Corea.jpg"
+  },
+  {
+    "titulo": "Un hijo propio",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Un hijo propio.jpg"
   },
   {
     "titulo": "Un pueblo al rescate",

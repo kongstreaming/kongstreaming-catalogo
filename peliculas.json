@@ -1246,11 +1246,11 @@
     "poster": "posters/2026_Te Van A Matar.jpg"
   },
   {
-    "titulo": "Terror en Silent Hill Regreso al infierno",
+    "titulo": "Terror En Silent Hill Regreso Al Infierno",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
-    "poster": "posters/2026_Terror en Silent Hill Regreso al infierno.jpg"
+    "poster": "posters/2026_Terror En Silent Hill Regreso Al Infierno.jpg"
   },
   {
     "titulo": "The Amazing Digital Circus El ultimo acto",
@@ -1265,6 +1265,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_The Dink Pasion por el pickleball.jpg"
+  },
+  {
+    "titulo": "The Furious",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_The Furious.jpg"
   },
   {
     "titulo": "The Gates",
@@ -2653,11 +2660,11 @@
     "poster": "posters/2025_El secreto de Santa.jpg"
   },
   {
-    "titulo": "El sobreviviente",
+    "titulo": "El Sobreviviente",
     "anio": "2025",
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
-    "poster": "posters/2025_El sobreviviente.jpg"
+    "poster": "posters/2025_El Sobreviviente.jpg"
   },
   {
     "titulo": "El tiempo que nos queda",

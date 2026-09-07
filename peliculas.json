@@ -1,17 +1,17 @@
 [
   {
+    "titulo": "Coyote vs. Acme",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Coyote vs Acme.jpg"
+  },
+  {
     "titulo": "La Odisea",
     "anio": "2026",
     "estado": "EN CINE",
     "categoria": "cine",
     "poster": "posters/cine_La Odisea.jpg"
-  },
-  {
-    "titulo": "Moana",
-    "anio": "2026",
-    "estado": "EN CINE",
-    "categoria": "cine",
-    "poster": "posters/cine_Moana.jpg"
   },
   {
     "titulo": "Spider-Man Un nuevo día",
@@ -938,6 +938,13 @@
     "poster": "posters/2026_Las damas primero.jpg"
   },
   {
+    "titulo": "LEGO Star Wars The Mandalorian",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_LEGO Star Wars The Mandalorian.jpg"
+  },
+  {
     "titulo": "Letras Robadas",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1048,6 +1055,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Misdirection.jpg"
+  },
+  {
+    "titulo": "Moana",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Moana.jpg"
   },
   {
     "titulo": "Mother Mary",

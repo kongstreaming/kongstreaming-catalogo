@@ -7,6 +7,20 @@
     "poster": "posters/cine_Coyote vs Acme.jpg"
   },
   {
+    "titulo": "El Heladero Dulce sabor a muerte",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_El Heladero Dulce sabor a muerte.jpg"
+  },
+  {
+    "titulo": "Entrega al límite",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Entrega al limite.jpg"
+  },
+  {
     "titulo": "La Odisea",
     "anio": "2026",
     "estado": "EN CINE",
@@ -14,11 +28,25 @@
     "poster": "posters/cine_La Odisea.jpg"
   },
   {
+    "titulo": "Resident Evil Noche cero",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Resident Evil Noche cero.jpg"
+  },
+  {
     "titulo": "Spider-Man Un nuevo día",
     "anio": "2026",
     "estado": "EN CINE",
     "categoria": "cine",
     "poster": "posters/cine_Spider-Man Un nuevo dia.jpg"
+  },
+  {
+    "titulo": "Zona Cero",
+    "anio": "2026",
+    "estado": "EN CINE",
+    "categoria": "cine",
+    "poster": "posters/cine_Zona Cero.jpg"
   },
   {
     "titulo": "18 rosas",
@@ -103,6 +131,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Avatar Aang El ultimo Maestro Aire.jpg"
+  },
+  {
+    "titulo": "Aves De Corral",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Aves De Corral.jpg"
   },
   {
     "titulo": "Aída y vuelta",
@@ -1505,6 +1540,13 @@
     "poster": "posters/2026_Soulm8te.jpg"
   },
   {
+    "titulo": "Spidey Y Los Vengadores Halloween En Equipo",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Spidey Y Los Vengadores Halloween En Equipo.jpg"
+  },
+  {
     "titulo": "Star Wars The Mandalorian and Grogu",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1839,867 +1881,6 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": ""
-  },
-  {
-    "titulo": "El último contrabando",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El ultimo contrabando.jpg"
-  },
-  {
-    "titulo": "El último encargo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El ultimo encargo.jpg"
-  },
-  {
-    "titulo": "El último refugio",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El ultimo refugio.jpg"
-  },
-  {
-    "titulo": "El último respiro",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El ultimo respiro.jpg"
-  },
-  {
-    "titulo": "El Último Rodeo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El Ultimo Rodeo.jpg"
-  },
-  {
-    "titulo": "El último tiroteo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_El ultimo tiroteo.jpg"
-  },
-  {
-    "titulo": "Elio",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Elio.jpg"
-  },
-  {
-    "titulo": "Ella McCay Imperfectamente perfecta",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Ella McCay Imperfectamente perfecta.jpg"
-  },
-  {
-    "titulo": "Emboscada Salvaje",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Emboscada Salvaje.jpg"
-  },
-  {
-    "titulo": "Empezar de nuevo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Empezar de nuevo.jpg"
-  },
-  {
-    "titulo": "En busca de Joy",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En busca de Joy.jpg"
-  },
-  {
-    "titulo": "En Busca De Venganza 2 Ciudad De Lobos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En Busca De Venganza 2 Ciudad De Lobos.jpg"
-  },
-  {
-    "titulo": "En la línea de fuego",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En la linea de fuego.jpg"
-  },
-  {
-    "titulo": "En la Ruta del Crimen",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En la Ruta del Crimen.jpg"
-  },
-  {
-    "titulo": "En sueños",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En suenos.jpg"
-  },
-  {
-    "titulo": "En un confín del mundo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_En un confin del mundo.jpg"
-  },
-  {
-    "titulo": "Encerrado",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Encerrado.jpg"
-  },
-  {
-    "titulo": "Escapada de espanto",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Escapada de espanto.jpg"
-  },
-  {
-    "titulo": "Escuadrón letal",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Escuadron letal.jpg"
-  },
-  {
-    "titulo": "Espacio Tiempo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Espacio Tiempo.jpg"
-  },
-  {
-    "titulo": "Estado eléctrico",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Estado electrico.jpg"
-  },
-  {
-    "titulo": "Este maldito fútbol fantasy",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Este maldito futbol fantasy.jpg"
-  },
-  {
-    "titulo": "Estragos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Estragos.jpg"
-  },
-  {
-    "titulo": "Exilio",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Exilio.jpg"
-  },
-  {
-    "titulo": "Exit 8",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Exit 8.jpg"
-  },
-  {
-    "titulo": "Exorcismo El Ritual",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Exorcismo El Ritual.jpg"
-  },
-  {
-    "titulo": "Exterminio La evolución",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Exterminio La evolucion.jpg"
-  },
-  {
-    "titulo": "Extraterritorial",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Extraterritorial.jpg"
-  },
-  {
-    "titulo": "F1 la película",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_F1 la pelicula.jpg"
-  },
-  {
-    "titulo": "Fackham Hall",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Fackham Hall.jpg"
-  },
-  {
-    "titulo": "Familia en renta",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Familia en renta.jpg"
-  },
-  {
-    "titulo": "Fight or Flight (Sicarios en el aire)",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Fight or Flight Sicarios en el aire.jpg"
-  },
-  {
-    "titulo": "First Moon",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_First Moon.jpg"
-  },
-  {
-    "titulo": "Five Nights at Freddy's 2",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Five Nights at Freddys 2.jpg"
-  },
-  {
-    "titulo": "Frankenstein",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Frankenstein.jpg"
-  },
-  {
-    "titulo": "Frankie y Los Monstruos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Frankie y Los Monstruos.jpg"
-  },
-  {
-    "titulo": "Freaky Tales",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Freaky Tales.jpg"
-  },
-  {
-    "titulo": "French Lover",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_French Lover.jpg"
-  },
-  {
-    "titulo": "Friendship",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Friendship.jpg"
-  },
-  {
-    "titulo": "Fuera de foco",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Fuera de foco.jpg"
-  },
-  {
-    "titulo": "Fuera de pista 2",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Fuera de pista 2.jpg"
-  },
-  {
-    "titulo": "Furioza 2",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Furioza 2.jpg"
-  },
-  {
-    "titulo": "G20",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_G20.jpg"
-  },
-  {
-    "titulo": "Gladiator Underground",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Gladiator Underground.jpg"
-  },
-  {
-    "titulo": "Golpe de superación",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Golpe de superacion.jpg"
-  },
-  {
-    "titulo": "Good Boy Confía en su instinto",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Good Boy Confia en su instinto.jpg"
-  },
-  {
-    "titulo": "Halloween La noche del espantapajaros",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Halloween La noche del espantapajaros.jpg"
-  },
-  {
-    "titulo": "Hamnet",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hamnet.jpg"
-  },
-  {
-    "titulo": "Happy Gilmore 2",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Happy Gilmore 2.jpg"
-  },
-  {
-    "titulo": "Harpía Acecho maligno",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Harpia Acecho maligno.jpg"
-  },
-  {
-    "titulo": "Harta",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Harta.jpg"
-  },
-  {
-    "titulo": "Haz que regrese",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Haz que regrese.jpg"
-  },
-  {
-    "titulo": "Heart Eyes",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Heart Eyes.jpg"
-  },
-  {
-    "titulo": "Hedda (2025 Wl 720p (1)_STREAM",
-    "anio": "",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hedda 2025 Wl 720p 1_STREAM.jpg"
-  },
-  {
-    "titulo": "Henry Danger, La Película",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Henry Danger La Pelicula.jpg"
-  },
-  {
-    "titulo": "High Ground En la tierra de los justos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_High Ground En la tierra de los justos.jpg"
-  },
-  {
-    "titulo": "HIM El elegido",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_HIM El elegido.jpg"
-  },
-  {
-    "titulo": "Hogar Dulce Hogar Renacimiento",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hogar Dulce Hogar Renacimiento.jpg"
-  },
-  {
-    "titulo": "Hogar siniestro",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hogar siniestro.jpg"
-  },
-  {
-    "titulo": "Hola Frida!",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hola Frida.jpg"
-  },
-  {
-    "titulo": "Holland",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Holland.jpg"
-  },
-  {
-    "titulo": "Hombre con H",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hombre con H.jpg"
-  },
-  {
-    "titulo": "Hombre lobo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hombre lobo.jpg"
-  },
-  {
-    "titulo": "Homo Argentum",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Homo Argentum.jpg"
-  },
-  {
-    "titulo": "Honey, no",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Honey no.jpg"
-  },
-  {
-    "titulo": "Hook",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hook.jpg"
-  },
-  {
-    "titulo": "Hurry Up Tomorrow Más allá de los reflectores",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Hurry Up Tomorrow Mas alla de los reflectores.jpg"
-  },
-  {
-    "titulo": "Héroes de Malegaon",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Heroes de Malegaon.jpg"
-  },
-  {
-    "titulo": "Icefall",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Icefall.jpg"
-  },
-  {
-    "titulo": "Icefall",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Icefall.jpg"
-  },
-  {
-    "titulo": "Indomables",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Indomables.jpg"
-  },
-  {
-    "titulo": "Infancia Sombría",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Infancia Sombria.jpg"
-  },
-  {
-    "titulo": "Instinto salvaje",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Instinto salvaje.jpg"
-  },
-  {
-    "titulo": "Instintos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Instintos.jpg"
-  },
-  {
-    "titulo": "Invencible Un niño fuera de serie",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Invencible Un nino fuera de serie.jpg"
-  },
-  {
-    "titulo": "Invocación",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Invocacion.jpg"
-  },
-  {
-    "titulo": "Jane Austen arruinó mi vida",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Jane Austen arruino mi vida.jpg"
-  },
-  {
-    "titulo": "Jay Kelly",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Jay Kelly.jpg"
-  },
-  {
-    "titulo": "Jefes de Estado",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Jefes de Estado.jpg"
-  },
-  {
-    "titulo": "Jerarquía",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Jerarquia.jpg"
-  },
-  {
-    "titulo": "Juego sucio",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Juego sucio.jpg"
-  },
-  {
-    "titulo": "Juegos de Seducción",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Juegos de Seduccion.jpg"
-  },
-  {
-    "titulo": "Jumbo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Jumbo.jpg"
-  },
-  {
-    "titulo": "June y John",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_June y John.jpg"
-  },
-  {
-    "titulo": "K.O.",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_KO.jpg"
-  },
-  {
-    "titulo": "Kaiju No. 8 Misión de reconocimiento",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Kaiju No 8 Mision de reconocimiento.jpg"
-  },
-  {
-    "titulo": "Karate Kid Leyendas",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Karate Kid Leyendas.jpg"
-  },
-  {
-    "titulo": "Karol G Mañana fue muy bonito",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_Karol G Manana fue muy bonito.jpg"
-  },
-  {
-    "titulo": "King Ivory",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_King Ivory.jpg"
-  },
-  {
-    "titulo": "La Astronauta",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Astronauta.jpg"
-  },
-  {
-    "titulo": "La bala perdida 3",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La bala perdida 3.jpg"
-  },
-  {
-    "titulo": "La banda de ladrones del oro",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La banda de ladrones del oro.jpg"
-  },
-  {
-    "titulo": "La calle del terror La reina del baile",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La calle del terror La reina del baile.jpg"
-  },
-  {
-    "titulo": "La casa de muñecas de Gabby La película",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La casa de munecas de Gabby La pelicula.jpg"
-  },
-  {
-    "titulo": "La celda de los milagros",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La celda de los milagros.jpg"
-  },
-  {
-    "titulo": "La chica del ático",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La chica del atico.jpg"
-  },
-  {
-    "titulo": "La chica más hermosa del mundo",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La chica mas hermosa del mundo.jpg"
-  },
-  {
-    "titulo": "La chica zurda",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La chica zurda.jpg"
-  },
-  {
-    "titulo": "La creación de los dioses 2 Fuerza demoníaca",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La creacion de los dioses 2 Fuerza demoniaca.jpg"
-  },
-  {
-    "titulo": "La culpa no es mía",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La culpa no es mia.jpg"
-  },
-  {
-    "titulo": "La deuda",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La deuda.jpg"
-  },
-  {
-    "titulo": "La dolce casa",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La dolce casa.jpg"
-  },
-  {
-    "titulo": "La Empleada",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Empleada.jpg"
-  },
-  {
-    "titulo": "La evaluación",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La evaluacion.jpg"
-  },
-  {
-    "titulo": "La fuente de la juventud",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La fuente de la juventud.jpg"
-  },
-  {
-    "titulo": "La Grazia La belleza de la duda",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Grazia La belleza de la duda.jpg"
-  },
-  {
-    "titulo": "La guerra de los mundos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La guerra de los mundos.jpg"
-  },
-  {
-    "titulo": "La herencia",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La herencia.jpg"
-  },
-  {
-    "titulo": "La hermanastra fea",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La hermanastra fea.jpg"
-  },
-  {
-    "titulo": "La historia del sonido",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La historia del sonido.jpg"
-  },
-  {
-    "titulo": "La hora de la desaparición",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La hora de la desaparicion.jpg"
-  },
-  {
-    "titulo": "La hora de los valientes",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La hora de los valientes.jpg"
-  },
-  {
-    "titulo": "La huella del mal",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La huella del mal.jpg"
-  },
-  {
-    "titulo": "La Leyenda de Ochi",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Leyenda de Ochi.jpg"
-  },
-  {
-    "titulo": "La mano que mece la cuna",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La mano que mece la cuna.jpg"
-  },
-  {
-    "titulo": "La masacre del ratón",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La masacre del raton.jpg"
-  },
-  {
-    "titulo": "La muerte de un unicornio",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La muerte de un unicornio.jpg"
-  },
-  {
-    "titulo": "La mujer de las sombras",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La mujer de las sombras.jpg"
-  },
-  {
-    "titulo": "La mujer del camarote 10",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La mujer del camarote 10.jpg"
-  },
-  {
-    "titulo": "La Máquina The Smashing Machine",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Maquina The Smashing Machine.jpg"
-  },
-  {
-    "titulo": "La más fan",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La mas fan.jpg"
-  },
-  {
-    "titulo": "La Navidad en sus manos 2",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La Navidad en sus manos 2.jpg"
-  },
-  {
-    "titulo": "La niña de mis ojos",
-    "anio": "2025",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2025",
-    "poster": "posters/2025_La nina de mis ojos.jpg"
   },
   {
     "titulo": "La noche siempre llega",
@@ -3444,6 +2625,13 @@
     "poster": "posters/2025_Ojo por Ojo.jpg"
   },
   {
+    "titulo": "Ojos de corazón",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Ojos de corazon.jpg"
+  },
+  {
     "titulo": "Oni-Goroshi Ciudad de los demonios",
     "anio": "2025",
     "estado": "CALIDAD FINAL",
@@ -3456,6 +2644,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": "posters/2025_Operacion Arriesgada.jpg"
+  },
+  {
+    "titulo": "Operación Sombra",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Operacion Sombra.jpg"
   },
   {
     "titulo": "Operación Sombra",
@@ -3715,6 +2910,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": "posters/2025_Rey del ring.jpg"
+  },
+  {
+    "titulo": "Rey Marfil",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Rey Marfil.jpg"
   },
   {
     "titulo": "Riesgo bajo cero Venganza",
@@ -3995,6 +3197,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": "posters/2025_The Home.jpg"
+  },
+  {
+    "titulo": "The Other",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_The Other.jpg"
   },
   {
     "titulo": "The Witcher Sirenas de las profundidades",

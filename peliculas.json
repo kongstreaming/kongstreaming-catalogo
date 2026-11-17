@@ -301,6 +301,13 @@
     "poster": "posters/2026_Buena suerte diviertete no mueras.jpg"
   },
   {
+    "titulo": "Cable Mortal",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Cable Mortal.jpg"
+  },
+  {
     "titulo": "Cada día nace un listo",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -2602,13 +2609,6 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Volver a los 17.jpg"
-  },
-  {
-    "titulo": "Vértigo 2 Punto muerto",
-    "anio": "2026",
-    "estado": "CALIDAD FINAL",
-    "categoria": "2026",
-    "poster": "posters/2026_Vertigo 2 Punto muerto.jpg"
   },
   {
     "titulo": "Vértigo 2 Punto muerto",

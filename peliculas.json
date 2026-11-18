@@ -840,6 +840,13 @@
     "poster": "posters/2026_En_La_Zona_Gris.jpg"
   },
   {
+    "titulo": "En Ruta de Escape",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_En_Ruta_de_Escape.jpg"
+  },
+  {
     "titulo": "En un abrir y cerrar de ojos",
     "anio": "2026",
     "estado": "CALIDAD FINAL",
@@ -1251,6 +1258,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_La_Bestia_Del_Pantano.jpg"
+  },
+  {
+    "titulo": "La boda maldita",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_La_boda_maldita.jpg"
   },
   {
     "titulo": "La caja azul",
@@ -1776,6 +1790,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2026",
     "poster": "posters/2026_Minions_Monstruos.jpg"
+  },
+  {
+    "titulo": "Misty Green",
+    "anio": "2026",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2026",
+    "poster": "posters/2026_Misty_Green.jpg"
   },
   {
     "titulo": "Moana",
@@ -5003,6 +5024,13 @@
     "estado": "CALIDAD FINAL",
     "categoria": "2025",
     "poster": "posters/2025_Lo_que_le_falta_a_esta_estrella.jpg"
+  },
+  {
+    "titulo": "Locust",
+    "anio": "2025",
+    "estado": "CALIDAD FINAL",
+    "categoria": "2025",
+    "poster": "posters/2025_Locust.jpg"
   },
   {
     "titulo": "Los 4 Fantásticos Primeros pasos",
